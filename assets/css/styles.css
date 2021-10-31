@@ -179,6 +179,10 @@ img{
     align-items: center;
 }
 
+.nav_logo{
+    font-size: -1rem;
+}
+
 .nav__logo,
 .nav__toggle{
     color: var(--title-color);
@@ -517,27 +521,28 @@ img{
 
 
 .skills__php{
-    width: 80%;
+    width: 60%;
 }
 .skills__node{
-    width: 70%;
+    width: 50%;
 }
-.skills__firebase{
+/* .skills__firebase{
     width: 90%;
-}
+} */
 .skills__python{
-    width: 55%;
+    width: 25%;
 }
 
 
 .skills__figma{
-    width: 90%;
+    width: 20%;
 }
-.skills__python{
-    width: 85%;
+
+.skills__sketch{
+    width: 25%;
 }
 .skills__photoshop{
-    width: 85%;
+    width: 80%;
 }
 
 .skills__close .skills__list{
